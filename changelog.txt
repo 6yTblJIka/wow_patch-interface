@@ -1,0 +1,23 @@
+
+/* v1.01
+ [ruRU]
+	патч:
+	  - исправлена проблема с каунтом айди профессий (когда нельзя было открыть из книжки).
+	  - пофикшены вкладки спелбука (теперь текст не будет прыгать).
+	  - добавлена поддержка для китайской локализации zhCN.
+	  - убраны лишние шаблоны шрифтов, из-за чего патч мог не корректно работать на некоторых локалях. 
+	  - исправлена несовместимость с поиском заклинаний и аддоном ezCollection на изингарде.
+		
+	аддон:
+	  - возможность отключить/включить округление значения гирскора.
+		
+ [enUS]
+	patch:
+	  - fixed problem with profession ID count (when it was impossible to open from spellbook).
+	  - fixed spellbook tabs (text visual).
+	  - added support for Chinese localization zhCN.
+	  - removed some fontstring templates, due which patch could work incorrectly on some locales. 
+		
+	addon:
+	  - Disable/Enable round GearScore value.
+*/
